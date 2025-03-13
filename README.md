@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shaikkarishma28/Competitive-coding/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shaikkarishma28/Competitive-coding/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/shaikkarishma28/Competitive-coding/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -17,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shaikkarishma28/Competitive-coding/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shaikkarishma28/Competitive-coding/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
