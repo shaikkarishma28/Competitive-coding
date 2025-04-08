@@ -16,6 +16,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/shaikkarishma28/Competitive-coding/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/shaikkarishma28/Competitive-coding/tree/master/0610-triangle-judgement) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/shaikkarishma28/Competitive-coding/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/shaikkarishma28/Competitive-coding/tree/master/1942-primary-department-for-each-employee) |
