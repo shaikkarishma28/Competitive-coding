@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/shaikkarishma28/Competitive-coding/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/shaikkarishma28/Competitive-coding/tree/master/1942-primary-department-for-each-employee) |
 ## Array
 |  |
 | ------- |
